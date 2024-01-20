@@ -1,0 +1,97 @@
+.contact {
+    height: auto;
+    width: 100%;
+    min-height: 92vh;
+    background-color: var(--background-color); 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact a{
+    border-radius: 2rem;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+    font-weight: bold;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.7s;
+    cursor: pointer;
+    margin-top: 2rem;
+}
+
+.contact a:hover{
+    background-color: rgb(108,0,250,0.2);
+    color: black;
+}
+
+.contact a img{
+    width: 36px;
+    height: 36px;
+    margin-right: 0.5rem;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.contact h3{
+    text-align: center;
+    background-color: rgb(108,0,250,0.2);
+    padding: 1rem;
+    border-radius: 1rem;
+    align-items: center;
+    width: auto;
+}
+
+.google-maps{
+    width: 60%;
+    height: 480px;
+}
+
+.contact-text-style{
+    font-size: 20px;
+}
+
+@media (max-width: 1268px){
+    .contact {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        min-height: auto;
+        width: 100%;
+        margin-bottom: 5rem;
+        margin-top: 5rem;
+    }
+
+    .contact h3{
+        text-align: center;
+        background-color: rgb(108,0,250,0.2);
+        padding: 1rem;
+        border-radius: 1rem;
+        align-items: center;
+        margin: 1rem 1rem;
+    }
+
+    .contact a{
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+
+    .google-maps{
+        width: 320px;
+        height: 320px;
+        margin-bottom: 1rem;
+    }
+
+    .contact-text-style{
+        font-size: 16px;
+    }
+}

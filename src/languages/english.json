@@ -1,0 +1,86 @@
+{
+  "navbar": {
+    "accueil" : "Home",
+    "services" : "Services",
+    "conception_impression":"Design and Printing",
+    "social_media":"Social Media Management",
+    "shooting":"Product Shooting",
+    "dev_web":"Web Development",
+    "ref_web":"Web Referencing",
+    "contact":"Contact",
+    "fr":"French",
+    "eng":"English",
+    "ar": "Arabic"
+  },
+
+  "contact": {
+    "email": "Send us an Email",
+    "visit": "You can visit us at office A43, fourth floor, Block A, Carthage Center."
+  },
+
+  "footer":{
+    "contact":"mhdevelopment.tunisie@gmail.com",
+    "number":"+216 52 584 566",
+    "copyrights":"© 2023 MH Developement. All rights reserved."
+  },
+
+  "home": {
+    "introQ": "Who Are We?",
+    "introR": "Optimize your online presence with our innovative marketing solutions. Choose a dynamic collaboration to propel your business to digital success.",
+    "servicesQ": "Our Services",
+    "servicesR": ["Design and Printing","Social Media Management","Product Shooting","Web Development","Web Referencing"],
+    "contactQ" : "Contact us"
+  },
+
+  "conception_impression":{
+    "name": "Design and Printing",
+    "question": "What is Design and Printing ?",
+    "definition" : "Design and Printing refers to the combined process of creating visual content and reproducing it on physical media through printing.",
+    "service" : "What we provide !",
+    "description1" : "At MH Development, we thrive on an abundance of creative ideas. Our highly skilled team excels at conceptualizing and bringing those ideas to life, ensuring a seamless and effective solution to get your job done.",
+    "description2" : "We specialize in crafting bespoke, innovative, and impeccably designed graphic cards, posters, flyers, and more. Everything you envision is seamlessly curated under one roof, ensuring a comprehensive and creative solution tailored to your unique needs.",
+    "description3" : "At MH Development, we go the extra mile for you. Once we've crafted your stunning graphic design, we understand that bringing it to life is just as crucial. That's why we offer high-quality printing options to ensure your masterpiece is presented with the excellence it deserves."
+  },
+
+  "social_media":{
+    "name": "Social Media Management",
+    "question": "What is Social Media Management ?",
+    "definition" : "Social Media Management refers to the process of creating, scheduling, analyzing, and engaging with content posted on social media platforms. The goal of social media management is to effectively use social media channels to build a brand, increase brand awareness, drive traffic, and engage with the target audience.",
+    "service" : "What we provide !",
+    "description1" : "Social media is a dynamic platform that connects everyone with shared interests. Recognizing its widespread appeal, we've tailored a solution just for you. Introducing our Social Media Management option, designed to leverage the richness of this platform and keep you actively engaged.",
+    "description2" : "We specialize in creating tailored marketing strategies that uniquely fit your brand. With a deep understanding of your goals and audience, we craft solutions to make your brand stand out. Our approach combines creativity and industry insights for impactful results. Let's work together to turn your vision into a compelling marketing success.",
+    "description3" : "Captivate your audience with our creative and expertly designed social media posts. Tailored for every platform, our posts are crafted to make your brand irresistibly attractive. Elevate your online presence and engage your audience like never before."
+  }, 
+
+  "shooting":{
+    "name": "Product Shooting",
+    "question": "What is Product Shooting ?",
+    "definition" : "Product Shooting generally refers to items or equipment related to firearms, shooting sports, or activities involving firearms. These products can include a wide range of items designed for use in shooting, hunting, or other related endeavors.",
+    "service" : "What we provide !",
+    "description1" : "Gear up for precision and reliability with our shooting products. From cutting-edge firearms to top-tier accessories, we provide a comprehensive arsenal that meets the demands of both seasoned marksmen and shooting enthusiasts. Elevate your shooting experience with equipment designed for excellence.",
+    "description2" : "Explore a world of shooting excellence with our premium range of products. Our collection includes top-quality firearms, ammunition, and accessories meticulously crafted for accuracy and performance. Whether you're a professional or a recreational shooter, trust us for the tools that enhance your skills.",
+    "description3" : "Equip yourself with the best in shooting technology. Our range of shooting products combines innovation and functionality, providing shooters with the tools they need to excel. Experience precision and power in every shot with our carefully curated selection.",
+    "description4" : "Capture the essence of the moment with our photography services. Whether it's portraits, events, or candid shots, our skilled photographers are adept at creating images that tell a story. From professional headshots to capturing life's spontaneous joys, let us frame your memories with creativity and expertise."
+  },
+
+  "dev_web":{
+    "name": "Web Development",
+    "question": "What is Web Development ?",
+    "definition" : "Web development refers to the process of building and maintaining websites or web applications. It involves a combination of tasks related to web design, web content development, client-side and server-side scripting, network security configuration, and other aspects that contribute to the functionality and user experience of a website.",
+    "service" : "What we provide !",
+    "description1" : "Surfing the internet is a universal trend! Why not ride the wave by creating a website for your brand? Our experienced team possesses the skills to build an impactful online presence tailored just for you.",
+    "description2" : "Elevate your brand with our service – meticulously designed, responsive for every device. We guarantee a level-up experience that positions your brand as the best in the digital landscape.",
+    "description3" : "Step into the digital forefront with our web development expertise. From sleek designs to seamless functionality, we specialize in creating websites that not only look impressive but also perform flawlessly. Our team of skilled developers ensures your online presence is not just a website but a dynamic experience, responsive across all devices, and tailored to elevate your brand to new heights."
+  },
+
+  "ref_web":{
+    "name": "Web Referencing",
+    "question": "What is Web Referencing ?",
+    "definition" : "Web Referencing or Search Engine Optimization, is a set of strategies and techniques aimed at improving the visibility and ranking of a website or web page in search engine results. The goal of SEO is to increase the quantity and quality of organic (non-paid) traffic to a website.",
+    "service" : "What we provide !",
+    "description1" : "Unlock the power of online visibility with our SEO expertise. Our tailored strategies propel your website to the top of search engine results, ensuring your brand is easily discovered. From keyword optimization to content finesse, we navigate the intricacies of SEO to drive organic traffic and boost your digital presence.",
+    "description2" : "Navigate the digital landscape with confidence through our SEO services. We specialize in optimizing your online content for search engines, ensuring your brand stays ahead in the virtual competition. Trust us to enhance your website's visibility, making it a go-to destination for your target audience.",
+    "description3" : "Transform your digital footprint with our SEO prowess. Our dedicated team crafts strategic solutions, from on-page optimization to backlink strategies, to propel your website to the forefront of search engine rankings. Elevate your brand's online presence and reach your audience effectively with our comprehensive SEO services."
+  }
+
+}

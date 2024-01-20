@@ -1,0 +1,29 @@
+:root {
+  --M1: rgb(192,0,250);
+  --M2: rgb(144, 69, 241);
+  --B1: rgb(33,36,135);
+  --B2: rgb(64,138,236);
+  --background-color: #f1f1f1;
+}
+
+body{
+  background-color: white;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: lightgray;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-track {
+  background: gray;
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(180,180,180);
+}

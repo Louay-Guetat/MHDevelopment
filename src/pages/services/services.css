@@ -1,0 +1,257 @@
+.service-container{
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+}
+
+.service-container .image-container{
+    padding-top: 2rem;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.service-container .image-container img{
+    width: 1720px;
+    height: 37rem;
+    border-radius: 2rem;
+}
+
+.service-container .image-container h1{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    margin-top: -5rem;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.service-container .service{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: 5rem;
+}
+
+.service-container .service .definition{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border: 2.5px solid var(--M2);
+    margin-bottom: 1rem;
+    padding: 5rem;
+    border-radius: 50px;
+}
+
+.service-container .service .definition h1{
+    text-align: center;
+}
+
+.service-container .service .definition span{
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+}
+
+#service{
+    background-color: gray;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.service-container .service .service-style{
+    padding: 5rem;
+    margin: 5rem;
+    display: flex;
+    align-items: center;
+    border: 2px solid var(--M2);
+    border-radius: 50px;
+    transition: 1s;
+    width: 70%;
+}
+
+.service-container .service .service-style:hover{
+    background-color: rgb(243, 238, 238);
+    transform: scale(1.2);
+    animation: animatezoom 1s;
+}
+
+.service-container .service .service-style .service-image-container{
+    flex: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-container .service .service-style .description-container{
+    flex: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-container .service .service-style .description-container span{
+    border: 2px solid var(--B2);
+    padding: 3rem;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    width: 50%;
+    text-align: center;
+}
+
+.service-container .service .service-style .service-image-container img{
+    width: 100%;
+    height: 30rem;
+    border-radius: 2.5rem;
+}
+
+@media (max-width: 1268px) {
+    .service-container{
+        min-height: 80vh;
+        display: flex;
+        flex-direction: column ;
+        align-items: center;
+    }
+    
+    .service-container .image-container{
+        padding-top: 2rem;
+        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .service-container .image-container img{
+        margin-top: 5rem;
+        width: 95%;
+        height: 20rem;
+        border-radius: 1rem;
+    }
+    
+    .service-container .image-container h1{
+        display: flex;
+        justify-content: center;
+        width: auto;
+        margin-top: -5rem;
+        color: black;
+        font-size: 28px;
+        background-color: rgba(255, 255, 255, 0.2);
+    }
+    
+    .service-container .service{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 80%;
+        margin-top: 5rem;
+    }
+    
+    .service-container .service .definition{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        border: 2.5px solid var(--M2);
+        margin-bottom: 3rem;
+        border-radius: 50px;
+        padding: 1rem;
+    }
+    
+    .service-container .service .definition h1{
+        text-align: center;
+        font-size: 28px;
+    }
+    
+    .service-container .service .definition span{
+        width: 100%;
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    #service{
+        background-color: gray;
+        padding: 1rem;
+        border-radius: 1rem;
+        color: whitesmoke;
+        text-align: center;
+    }
+    
+    .service-container .service .service-style{
+        padding: 2rem;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border: 2px solid var(--M2);
+        border-radius: 50px;
+        transition: 1s;
+        width: 100%;
+        transform: scale(0.8);
+    }
+    
+    .service-container .service .service-style:hover{
+        background-color: rgb(243, 238, 238);
+        transform: scale(0.9);
+        animation: phoneAnimateZoom 1s;
+    }
+    
+    .service-container .service .service-style .service-image-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .service-container .service .service-style .description-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 1rem;
+    }
+    
+    .service-container .service .service-style .description-container span{
+        border: 2px solid var(--B2);
+        padding: 2rem;
+        border-radius: 10px;
+        font-size: 20px;
+        font-weight: bold;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .service-container .service .service-style .service-image-container img{
+        width: 100%;
+        height: 15rem;
+        border-radius: 1.5rem;
+    }
+
+    #lastChild{
+        margin-bottom: 1rem;
+    }
+}
+
+@keyframes animatezoom{
+    from{
+      transform:scale(1)
+    } to{
+      transform:scale(1.2)
+    }
+  }
+
+@keyframes phoneAnimateZoom{
+    from{
+        transform:scale(0.8)
+    } to{
+        transform:scale(0.9)
+    }
+}

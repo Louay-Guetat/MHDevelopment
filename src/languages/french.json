@@ -1,0 +1,87 @@
+{
+  "navbar": {
+    "accueil": "Accueil",
+    "services": "Services",
+    "conception_impression": "Conception et Impression",
+    "social_media": "Gestion des Réseaux Sociaux",
+    "shooting": "Shooting Produit",
+    "dev_web": "Développement Web",
+    "ref_web": "Référencement Web",
+    "contact":"Contact",
+    "fr": "Français",
+    "eng": "Anglais",
+    "ar": "Arabe"
+  },
+
+  "contact": {
+    "email": "Envoyez-nous un Email",
+    "visit": "Vous pouvez nous rendre visite au bureau A43, quatrième étage, Bloc A, Carthage Center."
+  },
+
+  "footer": {
+    "contact":"mhdevelopment.tunisie@gmail.com",
+    "number":"+216 52 584 566",
+    "copyrights": "© 2023 MH Développement. Tous droits réservés."
+  },
+  
+  "home": {
+    "introQ": "Qui sommes-nous ?",
+    "introR": "Optimisez votre présence en ligne avec nos solutions marketing innovantes. Choisissez une collaboration dynamique pour propulser votre entreprise vers le succès numérique.",
+    "servicesQ": "Nos Services",
+    "servicesR": ["Conception et Impression", "Gestion des Réseaux Sociaux", "Shooting Produit", "Développement Web", "Référencement Web"],
+    "contactQ": "Contactez-nous"
+  },
+
+  
+  "conception_impression":{
+    "name": "Conception et Impression",
+    "question": "Qu'est-ce que la conception et l'impression ?",
+    "definition" : "La conception et l'impression font référence au processus combiné de création de contenu visuel et de reproduction sur support physique grâce à l'impression.",
+    "service" : "Ce que nous proposons !",
+    "description1" : "Chez MH Development, nous prospérons grâce à une abondance d'idées créatives. Notre équipe hautement qualifiée excelle dans la conceptualisation et la concrétisation de ces idées, garantissant une solution fluide et efficace pour accomplir votre travail.",
+    "description2" : "Nous sommes spécialisés dans la création de cartes graphiques, d'affiches, de flyers, et bien plus encore. Tout ce que vous imaginez est soigneusement élaboré sous un même toit, assurant une solution complète et créative adaptée à vos besoins uniques.",
+    "description3" : "Chez MH Development, nous faisons un effort supplémentaire pour vous. Une fois que nous avons créé votre superbe design graphique, nous comprenons que le rendre tangible est tout aussi crucial. C'est pourquoi nous proposons des options d'impression de haute qualité pour garantir que votre chef-d'œuvre soit présenté avec l'excellence qu'il mérite."
+  },
+
+  "social_media":{
+    "name": "Gestion des Réseaux Sociaux",
+    "question": "Qu'est-ce que la gestion des réseaux sociaux ?",
+    "definition" : "La gestion des réseaux sociaux désigne le processus de création, de planification, d'analyse et d'interaction avec le contenu publié sur les plateformes de médias sociaux. L'objectif de la gestion des médias sociaux est d'utiliser efficacement ces canaux pour construire une marque, accroître la notoriété de la marque, générer du trafic et interagir avec le public cible.",
+    "service" : "Ce que nous proposons !",
+    "description1" : "Les médias sociaux constituent une plateforme dynamique qui connecte tout le monde autour d'intérêts communs. Reconnaissant son attrait généralisé, nous avons conçu une solution spécialement pour vous. Découvrez notre option de Gestion des Médias Sociaux, conçue pour tirer parti de la richesse de cette plateforme et vous maintenir activement engagé.",
+    "description2" : "Nous sommes spécialisés dans la création de stratégies marketing sur mesure qui correspondent parfaitement à votre marque. Avec une compréhension approfondie de vos objectifs et de votre public, nous élaborons des solutions pour démarquer votre marque. Notre approche allie créativité et perspectives sectorielles pour des résultats percutants. Travaillons ensemble pour concrétiser votre vision en un succès marketing convaincant.",
+    "description3" : "Captez l'attention de votre public avec nos publications créatives et expertement conçues pour les médias sociaux. Adaptées à chaque plateforme, nos publications sont conçues pour rendre votre marque irrésistiblement attrayante. Rehaussez votre présence en ligne et engagez votre public comme jamais auparavant."
+  },
+
+  "shooting": {
+    "name": "Shooting Produit",
+    "question": "Qu'est-ce que le Shooting Produit ?",
+    "definition" : "Le Shooting Produit fait généralement référence aux articles ou équipements liés à la photographie, aux sports de prise de vue ou aux activités impliquant des appareils photo. Ces produits peuvent inclure une gamme variée d'articles conçus pour être utilisés en photographie, en chasse ou dans d'autres entreprises connexes.",
+    "service" : "Ce que nous offrons !",
+    "description1" : "Préparez-vous à la précision et à la fiabilité avec nos produits de photographie. Des appareils photo de pointe aux accessoires haut de gamme, nous fournissons un arsenal complet répondant aux exigences des photographes chevronnés et des amateurs. Rehaussez votre expérience photographique avec un équipement conçu pour l'excellence.",
+    "description2" : "Explorez un monde d'excellence photographique avec notre gamme premium de produits. Notre collection comprend des appareils photo de haute qualité, des munitions et des accessoires méticuleusement conçus pour la précision et la performance. Que vous soyez un professionnel ou un photographe amateur, faites-nous confiance pour les outils qui améliorent vos compétences.",
+    "description3" : "Équipez-vous avec le meilleur de la technologie photographique. Notre gamme de produits de photographie allie innovation et fonctionnalité, offrant aux photographes les outils dont ils ont besoin pour exceller. Vivez la précision et la puissance à chaque cliché avec notre sélection soigneusement élaborée.",
+    "description4" : "Capturez l'essence du moment avec nos services de photographie. Que ce soit des portraits, des événements, ou des clichés spontanés, nos photographes qualifiés excellent dans la création d'images qui racontent une histoire. Des portraits professionnels à la capture des joies spontanées de la vie, laissez-nous encadrer vos souvenirs avec créativité et expertise."
+  },
+
+  "dev_web":{
+    "name": "Développement Web",
+    "question": "Qu'est-ce que le développement web ?",
+    "definition" : "Le développement web désigne le processus de création et de maintenance de sites web ou d'applications web. Il implique une combinaison de tâches liées à la conception web, au développement de contenu, à la programmation côté client et côté serveur, à la configuration de la sécurité réseau, et d'autres aspects contribuant à la fonctionnalité et à l'expérience utilisateur d'un site web.",
+    "service" : "Ce que nous proposons !",
+    "description1" : "Surfer sur Internet est une tendance universelle ! Pourquoi ne pas surfer sur la vague en créant un site web pour votre marque ? Notre équipe expérimentée possède les compétences pour construire une présence en ligne impactante sur mesure pour vous.",
+    "description2" : "Rehaussez votre marque avec notre service, minutieusement conçu et réactif sur tous les appareils. Nous garantissons une expérience de niveau supérieur qui positionne votre marque comme la meilleure dans le paysage numérique.",
+    "description3" : "Plongez dans l'avant-garde numérique avec notre expertise en développement web. Des designs élégants à la fonctionnalité sans faille, nous sommes spécialisés dans la création de sites web qui non seulement impressionnent visuellement mais qui fonctionnent également à la perfection. Notre équipe de développeurs qualifiés assure que votre présence en ligne ne soit pas seulement un site web, mais une expérience dynamique, réactive sur tous les appareils, et conçue pour élever votre marque à de nouveaux sommets."
+  },
+
+  "ref_web":{
+    "name": "Référencement Web",
+    "question": "Qu'est-ce que le référencement web ?",
+    "definition" : "Le référencement web, ou optimisation pour les moteurs de recherche (SEO), est un ensemble de stratégies et de techniques visant à améliorer la visibilité et le classement d'un site web ou d'une page web dans les résultats des moteurs de recherche. L'objectif du SEO est d'augmenter la quantité et la qualité du trafic organique (non payant) vers un site web.",
+    "service" : "Ce que nous proposons !",
+    "description1" : "Libérez la puissance de la visibilité en ligne avec notre expertise en SEO. Nos stratégies sur mesure propulsent votre site web au sommet des résultats des moteurs de recherche, garantissant que votre marque soit facilement découverte. De l'optimisation des mots clés à la finesse du contenu, nous naviguons dans les subtilités du SEO pour générer du trafic organique et stimuler votre présence numérique.",
+    "description2" : "Naviguez avec confiance dans le paysage numérique grâce à nos services de SEO. Nous nous spécialisons dans l'optimisation de votre contenu en ligne pour les moteurs de recherche, garantissant que votre marque reste en tête de la concurrence virtuelle. Faites-nous confiance pour améliorer la visibilité de votre site web, en en faisant une destination incontournable pour votre public cible.",
+    "description3" : "Transformez votre empreinte numérique avec notre expertise en SEO. Notre équipe dédiée élabore des solutions stratégiques, de l'optimisation sur la page aux stratégies de backlink, pour propulser votre site web au premier plan des classements des moteurs de recherche. Rehaussez la présence en ligne de votre marque et atteignez efficacement votre public avec nos services complets de SEO."
+  }
+    
+}

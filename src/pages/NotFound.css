@@ -1,0 +1,12 @@
+.NotFound{
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    align-items: center;
+    background-color: white;
+}
+
+.NotFound img{
+    width: 100vw;
+    height: 80vh;
+}
