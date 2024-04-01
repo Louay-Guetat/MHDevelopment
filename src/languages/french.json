@@ -14,9 +14,8 @@
   },
 
   "contact": {
-    "email": "Envoyez-nous un Email",
-    "visit": "Vous pouvez nous rendre visite au bureau A43, quatrième étage, Bloc A, Carthage Center."
-  },
+    "email": "Envoyez-nous un Email"
+    },
 
   "footer": {
     "contact":"mhdevelopment.tunisie@gmail.com",
